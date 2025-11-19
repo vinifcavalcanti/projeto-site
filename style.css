@@ -15,4 +15,9 @@ main{
     margin: auto;
     padding: 5px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    text-align: justify;
+}
+
+main p {
+    text-indent: 20px;
 }
